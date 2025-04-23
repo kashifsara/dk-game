@@ -1,0 +1,20 @@
+bottleflip-x/
+├── public/
+│   ├── assets/
+│   │   ├── dakuf-logo.png
+│   │   └── dakuf-bottle.png
+│   └── sounds/
+│       ├── flip.mp3
+│       ├── win.mp3
+│       ├── lose.mp3
+│       └── cashout.mp3
+├── src/
+│   ├── components/
+│   │   └── ui/
+│   │       ├── button.js
+│   │       └── card.js
+│   └── pages/
+│       └── index.js (the game component above)
+├── package.json
+├── vercel.json
+└── next.config.js
